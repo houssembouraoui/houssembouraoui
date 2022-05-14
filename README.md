@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Houssem Bouraoui currently working as a full-stack js instructors at RBK-TN
-- 👀 I’m interested in Python
+- 👀 I’m interested in TS
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me:houssembouraoui6@gmail.com
 
