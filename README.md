@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
   </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png"
+      src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" 
       alt="nextjs"
       width="40"
       height="40"
