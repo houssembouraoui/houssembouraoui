@@ -32,6 +32,14 @@ You can click the Preview link to take a look at your changes.
       height="40"
     />
   </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png"
+      alt="typeScript"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
