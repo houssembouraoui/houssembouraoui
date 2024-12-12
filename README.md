@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Houssem Bouraoui 
-currently working as a full-stack js instructorsat RBK-TN 
-- 👀 I’m interested in TS
+currently working as a full-stack js developper/mentor Orange Tunisia
+- 👀 I’m interested in AWS
 - 🌱 I’m currently learning Go. 
 - 📫 How to reach me: houssembouraoui6@gmail.com
 
