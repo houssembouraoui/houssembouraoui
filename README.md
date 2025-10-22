@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png"
-      alt="typeScript"
+      alt="GoLang"
       width="40"
       height="40"
     />
